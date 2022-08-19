@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm a SQL 👦 &B igData 👦
+
+
+
 <!--
 **myyyy/myyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
