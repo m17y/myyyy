@@ -97,3 +97,6 @@ Shell                    2 repos             █░░░░░░░░░░�
 
  Last Updated on 19/08/2022 08:37:10 UTC
 <!--END_SECTION:waka-->
+
+copy from https://github.com/anmol098/waka-readme-stats
+
