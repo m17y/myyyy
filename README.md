@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 🏆 7 Contributions in the Year 2022
+> 🏆 11 Contributions in the Year 2022
  > 
 > 📦 488.9 kB Used in GitHub's Storage 
  > 
@@ -63,13 +63,16 @@ Sunday       1 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     6 mins              ███████████████░░░░░░░░░░   62.68% 
+Scala                    2 mins              ██████░░░░░░░░░░░░░░░░░░░   26.52% 
+Markdown                 1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   10.8% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  9 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      9 mins              █████████████████████████   100.0%
 
 ```
 
@@ -90,7 +93,7 @@ Shell                    2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/myyyy/myyyy/main/charts/bar_graph.png) 
 
 
- Last Updated on 19/08/2022 08:47:08 UTC
+ Last Updated on 19/08/2022 20:41:08 UTC
 <!--END_SECTION:waka-->
 
 copy from https://github.com/anmol098/waka-readme-stats
