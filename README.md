@@ -20,10 +20,12 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C298%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C300%20hrs%2016%20mins-blue)
 
 **🐱 My GitHub Data** 
 
+> 🏆 11 Contributions in the Year 2022
+ > 
 > 📦 489.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
@@ -91,7 +93,7 @@ Shell                    2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/myyyy/myyyy/main/charts/bar_graph.png) 
 
 
- Last Updated on 26/08/2022 20:41:42 UTC
+ Last Updated on 27/08/2022 20:40:12 UTC
 <!--END_SECTION:waka-->
 
 copy from https://github.com/anmol098/waka-readme-stats
