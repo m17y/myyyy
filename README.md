@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C316%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C316%20hrs%2051%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -92,7 +92,7 @@ Shell                    2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/myyyy/myyyy/main/charts/bar_graph.png) 
 
 
- Last Updated on 07/09/2022 20:46:39 UTC
+ Last Updated on 08/09/2022 20:47:09 UTC
 <!--END_SECTION:waka-->
 
 copy from https://github.com/anmol098/waka-readme-stats
