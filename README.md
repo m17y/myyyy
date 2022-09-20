@@ -20,13 +20,13 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C323%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C326%20hrs%2056%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 11 Contributions in the Year 2022
  > 
-> 📦 489.1 kB Used in GitHub's Storage 
+> 📦 489.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -63,16 +63,17 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-SQL                      4 hrs 19 mins       █████████████░░░░░░░░░░░░   53.57% 
-Other                    1 hr 58 mins        ██████░░░░░░░░░░░░░░░░░░░   24.38% 
-Markdown                 1 hr 46 mins        █████░░░░░░░░░░░░░░░░░░░░   21.97% 
-Scala                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08%
+SQL                      8 hrs 57 mins       ███████████████░░░░░░░░░░   63.45% 
+Other                    2 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.1% 
+Markdown                 2 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.77% 
+Python                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.63% 
+Scala                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
 
 🔥 Editors: 
-VS Code                  8 hrs 4 mins        █████████████████████████   100.0%
+VS Code                  14 hrs 7 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      8 hrs 4 mins        █████████████████████████   100.0%
+Mac                      14 hrs 7 mins       █████████████████████████   100.0%
 
 ```
 
@@ -93,7 +94,7 @@ Shell                    2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/myyyy/myyyy/main/charts/bar_graph.png) 
 
 
- Last Updated on 19/09/2022 20:47:28 UTC
+ Last Updated on 20/09/2022 20:47:10 UTC
 <!--END_SECTION:waka-->
 
 copy from https://github.com/anmol098/waka-readme-stats
